@@ -12,7 +12,7 @@ The dashboard supports the business case by visualizing the potential improvemen
 # Prerequisites
 To run and interact with the Power BI dashboard, ensure you have the following software:
 Power BI Desktop: Download Power BI
-Sample Dataset: The project uses a retail dataset (e.g., sales data, inventory data) provided by OUTFITTERS or any relevant dataset.
+
 
 # Contact
 For any queries or issues, feel free to contact me at via GitHub.
