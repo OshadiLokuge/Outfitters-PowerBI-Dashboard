@@ -13,7 +13,7 @@ The dashboard supports the business case by visualizing the potential improvemen
 To run and interact with the Power BI dashboard, ensure you have the following software:
 Power BI Desktop: Download Power BI
 
-## visualization 
+## Visualization 
 
 Strategic Dashboard:
 KPIs: Net Profit, Total Sales.
