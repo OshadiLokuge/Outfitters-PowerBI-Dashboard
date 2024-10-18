@@ -15,4 +15,4 @@ Power BI Desktop: Download Power BI
 
 
 # Contact
-For any queries or issues, feel free to contact me at via GitHub.
+For any queries or issues, feel free to contact me via GitHub.
