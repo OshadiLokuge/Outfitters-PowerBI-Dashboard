@@ -9,11 +9,11 @@ The accompanying Power BI dashboard is designed to provide real-time insights in
 ## Objective
 The dashboard supports the business case by visualizing the potential improvements in decision-making processes, demonstrating the benefits of data-driven insights, and addressing OUTFITTERS’ needs for a modern, efficient analytics platform.
 
-# Prerequisites
+## Prerequisites
 To run and interact with the Power BI dashboard, ensure you have the following software:
 Power BI Desktop: Download Power BI
 
-# visualization 
+## visualization 
 
 Strategic Dashboard:
 KPIs: Net Profit, Total Sales.
@@ -28,8 +28,8 @@ Purchase Frequency: Bar chart showing monthly purchase frequency.
 Store Productivity: Profit and employee numbers per store (bar/line chart).
 Stock Levels: Color-coded table for stock levels and reorder alerts.
 
-# Clone the repository:
+## Clone the repository:
 git clone https://github.com/OshadiLokuge/Outfitters-PowerBI-Dashboard
 
-# Contact
+## Contact
 For any queries or issues, feel free to contact me via GitHub.
